@@ -1,4 +1,9 @@
 # Telegram Chat Export Cleaner (JSON → CSV)
+Telegram JSON to CSV Converter
+CSV dedupe tool
+Merge CSV files Python
+Remove duplicate rows CSV CLI
+
 
 Telegram Desktop exports chats as large, messy JSON files.
 They are hard to read, hard to analyze, and often break Excel or Google Sheets.
